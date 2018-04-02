@@ -1,8 +1,8 @@
 {
-  "name": "NanoWallet",
-  "version": "2.1.2",
-  "description": "Cross-platform lite wallet for NEM",
-  "author": "https://github.com/QuantumMechanics",
+  "name": "CityCoinWallet",
+  "version": "0.1",
+  "description": "Cross-platform lite wallet for City Coin",
+  "author": "https://github.com/peterglock",
   "license": "MIT",
   "dependencies": {
     "angular": "1.6.2",
@@ -51,13 +51,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/NemProject/NanoWallet.git"
+    "url": "https://github.com/peterglock/CityCoinWallet.git"
   },
   "keywords": [
     "nem"
   ],
   "bugs": {
-    "url": "https://github.com/NemProject/NanoWallet/issues"
+    "url": "https://github.com/peterglock/CityCoinWallet/issues"
   },
-  "homepage": "https://github.com/NemProject/NanoWallet#readme"
+  "homepage": "https://github.com/peterglock/CityCoinWallet#readme"
 }
